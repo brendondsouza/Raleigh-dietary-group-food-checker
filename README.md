@@ -1,1 +1,1 @@
-Live site: https://raleigh-food-safety-group.netlify.app
+Live site: https://raleigh-dietary-group.netlify.app
